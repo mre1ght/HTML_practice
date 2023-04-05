@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>trial</title>
+  <link rel="stylesheet" href="practice.css">
+
+</head>
+<body>
+
+<table>
+
+  <tbody>
+      <thead>
+    </th></tr>
+  </thead>
+    <tr><td>CRANET 集約タッチパネル v1
+      <p>旋回ブレーキ 
+       <span id="target-text">ON</span>
+       <span id="target-text">OFF</span>
+        ストップスイッチ
+       <span id="target-text">ON</span>
+       <span id="target-text">OFF<span>
+      </p>
+      <p>旋回フリー ON OFF AML解除 ON OFF</p>
+<p>ブーム・ジブ・選択 1 2 3 配列を選ぶ ISO タダノ カスタム</p>
+<p>M高速巻き下げ</p>
+<p>S高速巻き下げ</p>
+<p>アイドルボリューム</p>
+<p>巻き過  解除</p>
+    </td></tr>
+  </tbody>
+</table>
+
+
+<p></p>
+
+
+
+ 
+</section>
+</body>
+</html>
